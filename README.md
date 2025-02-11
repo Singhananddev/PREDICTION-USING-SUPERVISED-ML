@@ -1,3 +1,6 @@
+![student_score](https://github.com/user-attachments/assets/ffc5ebc5-4bec-4a89-8990-89120b2222ee)
+
+
 # PREDICTION-USING-SUPERVISED-ML
 
 **Predicting Student Scores with Linear Regression**
